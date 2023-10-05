@@ -18,6 +18,9 @@ sum(1:10)
 
 Question 2
 ```{r}
-Type answer here
+library(readr)
+ip_df <- read.csv("ip.csv")
+
+head(ip_df)
 ```
 
