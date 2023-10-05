@@ -29,4 +29,6 @@ Question 3
 ```{r}
 print("hello earth")
 
+print("github hates me")
+print(2 + 3 * 4 / 12 * 17)
 ```
