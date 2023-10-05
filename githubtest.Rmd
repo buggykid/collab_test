@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Question 1
 ```{r}
-Type answer here
+sum(1:10)
 ```
 
 
