@@ -24,3 +24,8 @@ ip_df <- read.csv("ip.csv")
 head(ip_df)
 ```
 
+Question 3
+```{r}
+print("hello world")
+
+```
