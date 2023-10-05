@@ -27,6 +27,6 @@ summary(ip_df)
 
 Question 3
 ```{r}
-print("hello world")
+print("hello earth")
 
 ```
