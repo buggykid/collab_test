@@ -22,5 +22,6 @@ library(readr)
 ip_df <- read.csv("ip.csv")
 
 head(ip_df)
+summary(ip_df)
 ```
 
